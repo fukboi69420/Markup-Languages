@@ -1,4 +1,4 @@
-# Markup-Languages
+# Markup-Languages Cheat Sheet
 This is a repository dedicated to cheat sheets for programming languages, markup languages and hypertext 
 ***
 ## Sheets
