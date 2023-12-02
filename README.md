@@ -4,7 +4,7 @@ This is a repository dedicated to cheat sheets for programming languages, markup
 ## Sheets
 A more extensive listing can be found on the cheat sheets through the [wiki](https://github.com/fukboi69420/Markup-Languages/wiki/Cheat-Sheets#markdown-cheat-sheet)
 
-## Imbedded css
+## Template css
 for html files you can use the css that is currently non functioning for reference if you want something to look like an early 2000s website
 
 ```
