@@ -30,4 +30,4 @@ text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
 
 |Remaining|
 |---------|
-> LaTex <br > XML <br 
+> LaTex <br > XML
